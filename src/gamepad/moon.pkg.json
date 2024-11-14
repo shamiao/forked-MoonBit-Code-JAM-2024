@@ -1,0 +1,6 @@
+{
+  "import": [
+    "moonbitlang/wasm4",
+    "magic-jewelry/common"
+  ]
+}
